@@ -1,0 +1,38 @@
+*{
+            margin: auto;
+            padding: 10;
+            
+          }
+          
+          .pdf-container{
+            width: 70%;
+            height: 600px;
+            background-color: #e4e4e4;
+            overflow-y: auto;
+            justify-content: center;
+            align-items: center;
+          }
+          
+          .error-msg{
+            width: 100%;
+            color: red;
+            font-size: 14px;
+            font-weight: 600;
+          }
+          
+          .form{
+            margin-top: 20px;
+            
+          }
+          .upload{
+            width: 100%;
+          }
+          .view > button{
+            margin-top: 50px;
+            width: 100%;
+            background-color: skyblue;
+            color: rgb(1, 6, 15);
+          }
+          .head{
+            color: rgb(64, 224, 64);
+          }
