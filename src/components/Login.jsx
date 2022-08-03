@@ -35,7 +35,7 @@ export default function Login() {
             <h1>Sign in</h1>
             <form action="" method="get">
              <div>
-                <p><label for="email">Email</label></p>
+                <p><label for="email">Username</label></p>
                 <input type="text" id="email" name="email" required 
                 onChange={(e)=>{
                         setUsername(e.target.value)
